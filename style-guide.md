@@ -22,13 +22,13 @@ Ionicon
 
 ## Background Colors
 
-``` css
+
 --bg-wild-blue-yonder: hsla(216, 33%, 68%, 1);
 --bg-carolina-blue: hsla(199, 89%, 49%, 1);
 --bg-prussian-blue: hsla(216, 33%, 20%, 1);
 --bg-oxford-blue: hsla(222, 44%, 13%, 1);
 --bg-oxford-blue-2: hsla(222, 47%, 11%, 1);
-```
+
 
 ## Text color
 
